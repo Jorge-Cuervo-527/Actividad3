@@ -14,7 +14,7 @@
 
 #### Instrucciones:
 
-<p>En el siguiente video se pueden apreciar una breve explicación del codigo y las instrucciones y las instrucciones para su uso:</p>
+<p>En el siguiente video se pueden apreciar una breve explicación del codigo y las instrucciones para su uso:</p>
 
 
 
